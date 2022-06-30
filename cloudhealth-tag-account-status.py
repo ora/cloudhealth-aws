@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# cloudhealth-tag-account-status - SecOps - olegr
+# cloudhealth-tag-account-status - github.com/ora
 # This will pull all AWS accounts provisioned in CloudHealth and tag them with current AWS account status.
 # Accounts found in CH, but not found in AWS will be marked as Deleted.
 

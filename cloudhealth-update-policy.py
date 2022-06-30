@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# cloudhealth-update-policy - SecOps - olegr
+# cloudhealth-update-policy - github.com/ora
 # Updates accounts missing arn:aws:iam::x:role/CloudHealth in assume_role_arn, which all new accounts do.
 # CH will not pull data from account until the role is manually specified.
 
